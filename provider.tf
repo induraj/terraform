@@ -4,3 +4,4 @@ provider "google" {
   project     = "bullet-points"
   region      = "us-east1"
 }
+

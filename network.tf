@@ -23,4 +23,3 @@ resource "google_compute_subnetwork" "app" {
   network       = "${google_compute_network.main.self_link}"
   region        = "us-east1"
 }
-
