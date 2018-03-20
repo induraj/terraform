@@ -6,3 +6,4 @@ resource "google_storage_bucket" "terraform-state" {
     scope = "infra"
   }
 }
+
